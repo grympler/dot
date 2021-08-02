@@ -1,0 +1,16 @@
+[user]
+    name = grympler
+    email = grympler@protonmail.com
+[core]
+    excludesfiles = .gitignore
+    excludesfile = ~/.gitignore_global
+[color]
+    diff = auto
+    status = auto
+    branch = auto
+    ui = true
+[alias]
+    ci = commit
+    co = checkout
+    st = status
+    br = branch
