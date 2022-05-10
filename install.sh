@@ -26,3 +26,12 @@ ${PWD}/install_python_tools.sh
 echo "Installing vim config ..."
 git clone git@github.com:grympler/vim.git ~/.vim
 cd ~/.vim && ./install.sh
+# TODO: note taking app
+# prepare https://vimways.org/2019/personal-notetaking-in-vim/
+#mkdir ~/wiki
+
+# TODO:
+# echo "Configuring terminal ..."
+# Use config file for terminal setting
+# Add patched font (working with vim statusline)
+# https://gist.github.com/reavon/0bbe99150810baa5623e5f601aa93afc
